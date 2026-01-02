@@ -1,6 +1,38 @@
-# CodeGalaxy - MERN Stack Project
+# 🌌 CodeGalaxy - MERN Stack Project
+### A Gamified & Visual Way to Learn Programming
 
-This project has been restructured into a monorepo-style layout.
+## 🚀 About CodeGalaxy
+
+Programming is often hard for beginners because they cannot *see* what is happening behind the code.  
+Concepts like loops, data structures, pointers, and algorithms feel confusing when learned only through textbooks or static examples.
+
+**CodeGalaxy** solves this problem by providing a **visual, interactive, and game-based learning platform** where students write code and instantly see **step-by-step execution animations**.
+
+It helps learners understand *how* code works, not just *what* to write.
+
+## 🎮 What Makes CodeGalaxy Special?
+
+- 🎯 **Gamified Learning** – Learn coding like playing a game with levels and challenges  
+- 👀 **Live Code Visualization** – Watch loops, nodes, pointers, and algorithms work in real time  
+- 🧠 **Strong Fundamentals** – Clear understanding of program flow and logic  
+- 🌐 **Multi-Language Support** – Practice the same problem in **Java, Python, or JavaScript**  
+- 📊 **Progress Tracking** – Track completed challenges and learning growth  
+- 👶 **Beginner Friendly** – Simple UI, easy explanations, smooth animations  
+
+## 🛠️ Tech Stack (MERN)
+
+### Frontend
+- React.js (Vite)
+- HTML, CSS, JavaScript
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+## 📁 Project Structure (Monorepo)
+
 
 ## Structure
 - **`/frontend`**: React + Vite application (The User Interface).
