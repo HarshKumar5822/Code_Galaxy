@@ -49,3 +49,4 @@ See `backend/server.js` and route files for API details.
 - Auth: `/api/auth`
 - Challenges: `/api/challenges`
 - Progress: `/api/progress`
+
